@@ -448,4 +448,8 @@ img {
   align-items: baseline;
 }
 
+.icons-list-footer .icons-list-item-link:focus,
+.icons-list-footer .icons-list-item-link:hover {
+  background-color: #31d0aa;
+}
 /*Footer end*/
